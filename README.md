@@ -17,9 +17,6 @@ PRD Master is a powerful command-line tool that generates comprehensive Product 
 
 Perfect for product managers, founders, engineers, and anyone needing to quickly draft professional product documentation.
 
-<div align="center">
-<img src="https://i.imgur.com/placeholder-screenshot.png" alt="PRD Generator Screenshot" width="600"/>
-</div>
 
 ## ✨ Features
 
