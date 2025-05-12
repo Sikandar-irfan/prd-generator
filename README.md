@@ -175,8 +175,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
+For any queries, reach out to me at [sikandarirfan150162@gmail.com](mailto:sikandarirfan150162@gmail.com).
 Project Link: [https://github.com/Sikandar-irfan/prd-generator](https://github.com/Sikandar-irfan/prd-generator)
 
 ---
