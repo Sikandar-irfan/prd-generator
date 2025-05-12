@@ -177,8 +177,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For any queries, reach out to me at [sikandarirfan150162@gmail.com](mailto:sikandarirfan150162@gmail.com).
 
-Project Link: [https://github.com/Sikandar-irfan/prd-generator](https://github.com/Sikandar-irfan/prd-generator)
-
 ---
 
 <div align="center">
