@@ -89,16 +89,9 @@ To use PRD Master, you'll need an OpenRouter API key:
    - Project name
    - Short description
    - Key stakeholders
-   - PRD complexity level
 4. Review the generated PRD
 5. Choose to save or refine the document
 
-### PRD Complexity Levels
-
-- **Standard**: Basic PRD structure with core sections
-- **Comprehensive**: Detailed PRD with technical specifications
-- **Advanced**: Full-scale PRD with code examples and deep technical details
-- **Custom**: Define your own PRD structure with custom instructions
 
 ### Example Command
 
@@ -137,10 +130,6 @@ PRD Master automatically saves generated documents in platform-specific location
 | Android (Termux) | `/storage/shared/PRD_Outputs/` |
 
 ## 🔄 Advanced Features
-
-### Custom Instructions
-
-Choose the "Custom" complexity level to provide specific instructions about what you want included in your PRD.
 
 ### Technical Implementation
 
