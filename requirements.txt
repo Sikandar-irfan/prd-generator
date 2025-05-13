@@ -1,17 +1,20 @@
 # Core HTTP + API clients
-requests                   # HTTP client for calling OpenRouter/OpenAI endpoints :contentReference[oaicite:0]{index=0}
-openai                     # OpenAI-compatible client used against OpenRouter :contentReference[oaicite:1]{index=1}
-openrouter-selector        # Simplified OpenRouter connector (optional) :contentReference[oaicite:2]{index=2}
+requests                   # HTTP client for calling OpenRouter/OpenAI endpoints
+openai                     # OpenAI-compatible client used against OpenRouter
+openrouter-selector        # Simplified OpenRouter connector
 
 # Environment variable management
-python-dotenv              # Load .env files for API keys :contentReference[oaicite:3]{index=3}
+python-dotenv              # Load .env files for API keys
 
 # Interactive prompts & CLI UI
-questionary                # User-friendly prompt toolkit :contentReference[oaicite:4]{index=4}
-PyInquirer                 # Inquirer.js–style CLI interfaces :contentReference[oaicite:5]{index=5}
-prompt-toolkit             # Advanced input editing for prompts :contentReference[oaicite:6]{index=6}
-click                      # Command-line interface utilities :contentReference[oaicite:7]{index=7}
+questionary                # User-friendly prompt toolkit
+PyInquirer                 # Inquirer.js–style CLI interfaces
+prompt-toolkit             # Advanced input editing for prompts 
+click                      # Command-line interface utilities
 
 # Styling & formatting
-rich                       # Rich text, tables, progress bars, syntax highlighting :contentReference[oaicite:8]{index=8}
-colorama                   # Cross-platform ANSI color support on Windows :contentReference[oaicite:9]{index=9}
+rich                       # Rich text, tables, progress bars, syntax highlighting
+colorama                   # Cross-platform ANSI color support
+
+# security
+cryptography
