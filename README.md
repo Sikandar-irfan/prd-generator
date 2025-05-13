@@ -50,18 +50,21 @@ Perfect for product managers, founders, engineers, and anyone needing to quickly
    **Windows**:
    ```powershell
    cd prd-generator
+   pip install -r requirements.txt
    python prd.py
    ```
 
    **Linux/macOS**:
    ```bash
    cd prd-generator
+   pip install -r requirements.txt
    python3 prd.py
    ```
 
    **Android (Termux)**:
    ```bash
    cd prd-generator
+   pip install -r requirements.txt
    python main.py
    ```
 
