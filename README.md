@@ -51,14 +51,14 @@ Perfect for product managers, founders, engineers, and anyone needing to quickly
    ```powershell
    cd prd-generator
    pip install -r requirements.txt
-   python prd.py
+   python main.py
    ```
 
    **Linux/macOS**:
    ```bash
    cd prd-generator
    pip install -r requirements.txt
-   python3 prd.py
+   python3 main.py
    ```
 
    **Android (Termux)**:
@@ -103,7 +103,7 @@ To use PRD Master, you'll need an OpenRouter API key:
 ### Example Command
 
 ```powershell
-python prd.py
+python main.py
 ```
 
 ## 📋 Example Output
